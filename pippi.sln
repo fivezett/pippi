@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pippi", "pippi\pippi.csproj", "{1C04FBD5-8BAD-4334-82BC-47EEEAC1481F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C04FBD5-8BAD-4334-82BC-47EEEAC1481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C04FBD5-8BAD-4334-82BC-47EEEAC1481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C04FBD5-8BAD-4334-82BC-47EEEAC1481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C04FBD5-8BAD-4334-82BC-47EEEAC1481F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DA9B5D-9969-4B9D-A0D9-AFF84458B43E}
+	EndGlobalSection
+EndGlobal
